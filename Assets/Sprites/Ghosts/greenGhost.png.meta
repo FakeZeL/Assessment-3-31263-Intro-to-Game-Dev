@@ -17,6 +17,39 @@ TextureImporter:
   - first:
       213: -4997858577588615125
     second: greenGhost_4
+  - first:
+      213: 215463357368486394
+    second: greenGhost_5
+  - first:
+      213: 2227952143775496151
+    second: greenGhost_6
+  - first:
+      213: -81138364574241117
+    second: greenGhost_7
+  - first:
+      213: 3686966106091967927
+    second: greenGhost_8
+  - first:
+      213: -8159380119567809243
+    second: greenGhost_9
+  - first:
+      213: 6546743018523916658
+    second: greenGhost_10
+  - first:
+      213: 3182167293156312712
+    second: greenGhost_11
+  - first:
+      213: 4920974353248991568
+    second: greenGhost_12
+  - first:
+      213: -8310609272209366500
+    second: greenGhost_13
+  - first:
+      213: 5859122781258908495
+    second: greenGhost_14
+  - first:
+      213: -9199562567056634180
+    second: greenGhost_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,8 +161,8 @@ TextureImporter:
       name: greenGhost_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 6
+        x: 23
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -149,8 +182,8 @@ TextureImporter:
       name: greenGhost_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 6
+        x: 61
+        y: 113
         width: 26
         height: 26
       alignment: 0
@@ -170,8 +203,8 @@ TextureImporter:
       name: greenGhost_2
       rect:
         serializedVersion: 2
-        x: 75
-        y: 6
+        x: 95
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -191,9 +224,9 @@ TextureImporter:
       name: greenGhost_3
       rect:
         serializedVersion: 2
-        x: 111
-        y: 6
-        width: 28
+        x: 131
+        y: 113
+        width: 26
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -212,10 +245,10 @@ TextureImporter:
       name: greenGhost_4
       rect:
         serializedVersion: 2
-        x: 149
-        y: 6
+        x: 23
+        y: 77
         width: 26
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,6 +258,237 @@ TextureImporter:
       bones: []
       spriteID: b28013d7a1a04aab0800000000000000
       internalID: -4997858577588615125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9cf0e28ca7df200800000000000000
+      internalID: 215463357368486394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7fe4aaba64bee10800000000000000
+      internalID: 2227952143775496151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae65e9561dbfdef0800000000000000
+      internalID: -81138364574241117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5548c932cba2330800000000000000
+      internalID: 3686966106091967927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525c6c1f20f04ce80800000000000000
+      internalID: -8159380119567809243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279f2e6d614bada50800000000000000
+      internalID: 6546743018523916658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886c2741b44592c20800000000000000
+      internalID: 3182167293156312712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059b6321a10da4440800000000000000
+      internalID: 4920974353248991568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12a4eef5e8caac80800000000000000
+      internalID: -8310609272209366500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4306586029cf4150800000000000000
+      internalID: 5859122781258908495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: greenGhost_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbecb9d2696945080800000000000000
+      internalID: -9199562567056634180
       vertices: []
       indices: 
       edges: []

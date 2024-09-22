@@ -5,6 +5,9 @@ TextureImporter:
   - first:
       213: -3220040767054732860
     second: powerPellet_0
+  - first:
+      213: 9038520470519712849
+    second: powerPellet_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -117,7 +120,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 4
-        y: 5
+        y: 41
         width: 27
         height: 26
       alignment: 0
@@ -129,6 +132,27 @@ TextureImporter:
       bones: []
       spriteID: 4c12d6d9bfd1053d0800000000000000
       internalID: -3220040767054732860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: powerPellet_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 5
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c8c64da764f6d70800000000000000
+      internalID: 9038520470519712849
       vertices: []
       indices: 
       edges: []

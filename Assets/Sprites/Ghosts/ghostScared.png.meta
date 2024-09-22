@@ -17,6 +17,21 @@ TextureImporter:
   - first:
       213: -2696674534837317938
     second: ghostScared_4
+  - first:
+      213: -310193403883617301
+    second: ghostScared_5
+  - first:
+      213: -5593707382188850475
+    second: ghostScared_6
+  - first:
+      213: -2209580016311371192
+    second: ghostScared_7
+  - first:
+      213: -6450116134510335190
+    second: ghostScared_8
+  - first:
+      213: 4234702176558450474
+    second: ghostScared_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,8 +143,8 @@ TextureImporter:
       name: ghostScared_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 6
+        x: 4
+        y: 42
         width: 28
         height: 26
       alignment: 0
@@ -149,8 +164,8 @@ TextureImporter:
       name: ghostScared_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 6
+        x: 42
+        y: 42
         width: 26
         height: 26
       alignment: 0
@@ -170,8 +185,8 @@ TextureImporter:
       name: ghostScared_2
       rect:
         serializedVersion: 2
-        x: 75
-        y: 6
+        x: 76
+        y: 42
         width: 28
         height: 26
       alignment: 0
@@ -191,8 +206,8 @@ TextureImporter:
       name: ghostScared_3
       rect:
         serializedVersion: 2
-        x: 111
-        y: 6
+        x: 112
+        y: 42
         width: 28
         height: 26
       alignment: 0
@@ -212,8 +227,8 @@ TextureImporter:
       name: ghostScared_4
       rect:
         serializedVersion: 2
-        x: 149
-        y: 6
+        x: 150
+        y: 42
         width: 26
         height: 27
       alignment: 0
@@ -225,6 +240,111 @@ TextureImporter:
       bones: []
       spriteID: ece0e245ccc739ad0800000000000000
       internalID: -2696674534837317938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostScared_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be309dd1eb8f1bbf0800000000000000
+      internalID: -310193403883617301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostScared_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d2472bc5c82f52b0800000000000000
+      internalID: -5593707382188850475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostScared_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 6
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a75f89eaef551e0800000000000000
+      internalID: -2209580016311371192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostScared_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bee72cc859c76a0800000000000000
+      internalID: -6450116134510335190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ghostScared_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a270753713fa4ca30800000000000000
+      internalID: 4234702176558450474
       vertices: []
       indices: 
       edges: []

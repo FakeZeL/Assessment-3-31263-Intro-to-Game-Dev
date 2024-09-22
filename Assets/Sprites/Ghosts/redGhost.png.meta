@@ -17,6 +17,39 @@ TextureImporter:
   - first:
       213: 6495340299451901821
     second: redGhost_4
+  - first:
+      213: 9062610059514525122
+    second: redGhost_5
+  - first:
+      213: 4776983513495084514
+    second: redGhost_6
+  - first:
+      213: 8791144559191276113
+    second: redGhost_7
+  - first:
+      213: 3546471442780303260
+    second: redGhost_8
+  - first:
+      213: 1771379054082237561
+    second: redGhost_9
+  - first:
+      213: 7675789524663741394
+    second: redGhost_10
+  - first:
+      213: -8101499338531950891
+    second: redGhost_11
+  - first:
+      213: 6251243333515628452
+    second: redGhost_12
+  - first:
+      213: -710945659943877163
+    second: redGhost_13
+  - first:
+      213: -2441165885806952379
+    second: redGhost_14
+  - first:
+      213: 5208798703926610140
+    second: redGhost_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,8 +161,8 @@ TextureImporter:
       name: redGhost_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 6
+        x: 23
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -149,8 +182,8 @@ TextureImporter:
       name: redGhost_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 6
+        x: 61
+        y: 113
         width: 26
         height: 26
       alignment: 0
@@ -170,8 +203,8 @@ TextureImporter:
       name: redGhost_2
       rect:
         serializedVersion: 2
-        x: 75
-        y: 6
+        x: 95
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -191,9 +224,9 @@ TextureImporter:
       name: redGhost_3
       rect:
         serializedVersion: 2
-        x: 111
-        y: 6
-        width: 28
+        x: 131
+        y: 113
+        width: 26
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -212,10 +245,10 @@ TextureImporter:
       name: redGhost_4
       rect:
         serializedVersion: 2
-        x: 149
-        y: 6
+        x: 23
+        y: 77
         width: 26
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,6 +258,237 @@ TextureImporter:
       bones: []
       spriteID: d772c1ca695142a50800000000000000
       internalID: 6495340299451901821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5be3755dbd4cd70800000000000000
+      internalID: 9062610059514525122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed95cb22314b4240800000000000000
+      internalID: 4776983513495084514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a34bb266b600a70800000000000000
+      internalID: 8791144559191276113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9facf8bcf8973130800000000000000
+      internalID: 3546471442780303260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974a3215dd3359810800000000000000
+      internalID: 1771379054082237561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db2f3497e1e58a60800000000000000
+      internalID: 7675789524663741394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deadb27641b19f80800000000000000
+      internalID: -8101499338531950891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af4abaf0b0e0c650800000000000000
+      internalID: 6251243333515628452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5807460b63226f0800000000000000
+      internalID: -710945659943877163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540ccaa8f8c3f1ed0800000000000000
+      internalID: -2441165885806952379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redGhost_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd88f06e2de594840800000000000000
+      internalID: 5208798703926610140
       vertices: []
       indices: 
       edges: []

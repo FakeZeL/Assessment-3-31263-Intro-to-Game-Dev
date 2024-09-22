@@ -17,6 +17,39 @@ TextureImporter:
   - first:
       213: 1488133586134959870
     second: pinkGhost_4
+  - first:
+      213: 8652086805174728249
+    second: pinkGhost_5
+  - first:
+      213: -6279508905538776992
+    second: pinkGhost_6
+  - first:
+      213: 684370164863307382
+    second: pinkGhost_7
+  - first:
+      213: 603176941585759650
+    second: pinkGhost_8
+  - first:
+      213: -8854816477701395048
+    second: pinkGhost_9
+  - first:
+      213: -8572789207312110430
+    second: pinkGhost_10
+  - first:
+      213: 4024343488322724802
+    second: pinkGhost_11
+  - first:
+      213: -2015357806506379538
+    second: pinkGhost_12
+  - first:
+      213: -2876625873571599523
+    second: pinkGhost_13
+  - first:
+      213: 1700654485123050618
+    second: pinkGhost_14
+  - first:
+      213: -2903279584143017285
+    second: pinkGhost_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,8 +161,8 @@ TextureImporter:
       name: pinkGhost_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 6
+        x: 23
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -149,8 +182,8 @@ TextureImporter:
       name: pinkGhost_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 6
+        x: 61
+        y: 113
         width: 26
         height: 26
       alignment: 0
@@ -170,8 +203,8 @@ TextureImporter:
       name: pinkGhost_2
       rect:
         serializedVersion: 2
-        x: 75
-        y: 6
+        x: 95
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -191,9 +224,9 @@ TextureImporter:
       name: pinkGhost_3
       rect:
         serializedVersion: 2
-        x: 111
-        y: 6
-        width: 28
+        x: 131
+        y: 113
+        width: 26
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -212,10 +245,10 @@ TextureImporter:
       name: pinkGhost_4
       rect:
         serializedVersion: 2
-        x: 149
-        y: 6
+        x: 23
+        y: 77
         width: 26
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,6 +258,237 @@ TextureImporter:
       bones: []
       spriteID: ef607e3bc99e6a410800000000000000
       internalID: 1488133586134959870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936b84ccb13621870800000000000000
+      internalID: 8652086805174728249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0609571bbe3bad8a0800000000000000
+      internalID: -6279508905538776992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e8d8bf90f5f7900800000000000000
+      internalID: 684370164863307382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adfceb8b3aee5800800000000000000
+      internalID: 603176941585759650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d255f045f5d1580800000000000000
+      internalID: -8854816477701395048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acebd3f2a5570980800000000000000
+      internalID: -8572789207312110430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e1aba41759d730800000000000000
+      internalID: 4024343488322724802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee670e7b0c20804e0800000000000000
+      internalID: -2015357806506379538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b211e420c2418d0800000000000000
+      internalID: -2876625873571599523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c2f676e30f99710800000000000000
+      internalID: 1700654485123050618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbaf287b99a75b7d0800000000000000
+      internalID: -2903279584143017285
       vertices: []
       indices: 
       edges: []

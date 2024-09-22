@@ -17,6 +17,39 @@ TextureImporter:
   - first:
       213: 517992441423108543
     second: blueGhost_4
+  - first:
+      213: 6064281200476570231
+    second: blueGhost_5
+  - first:
+      213: 7278019159404188015
+    second: blueGhost_6
+  - first:
+      213: -8402262316875976070
+    second: blueGhost_7
+  - first:
+      213: 4060790812022860312
+    second: blueGhost_8
+  - first:
+      213: -8146804060447342513
+    second: blueGhost_9
+  - first:
+      213: -7795553330878392181
+    second: blueGhost_10
+  - first:
+      213: -1828134398444176149
+    second: blueGhost_11
+  - first:
+      213: 5632584666375163582
+    second: blueGhost_12
+  - first:
+      213: 1962950724557405137
+    second: blueGhost_13
+  - first:
+      213: 8612439585560068652
+    second: blueGhost_14
+  - first:
+      213: -7385651907935800414
+    second: blueGhost_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -128,8 +161,8 @@ TextureImporter:
       name: blueGhost_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 6
+        x: 23
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -149,8 +182,8 @@ TextureImporter:
       name: blueGhost_1
       rect:
         serializedVersion: 2
-        x: 41
-        y: 6
+        x: 61
+        y: 113
         width: 26
         height: 26
       alignment: 0
@@ -170,8 +203,8 @@ TextureImporter:
       name: blueGhost_2
       rect:
         serializedVersion: 2
-        x: 75
-        y: 6
+        x: 95
+        y: 113
         width: 28
         height: 26
       alignment: 0
@@ -191,9 +224,9 @@ TextureImporter:
       name: blueGhost_3
       rect:
         serializedVersion: 2
-        x: 111
-        y: 6
-        width: 28
+        x: 131
+        y: 113
+        width: 26
         height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -212,10 +245,10 @@ TextureImporter:
       name: blueGhost_4
       rect:
         serializedVersion: 2
-        x: 149
-        y: 6
+        x: 23
+        y: 77
         width: 26
-        height: 27
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,6 +258,237 @@ TextureImporter:
       bones: []
       spriteID: fb99c5b8167403700800000000000000
       internalID: 517992441423108543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_5
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7724c743f97a82450800000000000000
+      internalID: 6064281200476570231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_6
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 77
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6116c86dd7b00560800000000000000
+      internalID: 7278019159404188015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 77
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a72f4fc90fa256b80800000000000000
+      internalID: -8402262316875976070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81aeac18ab3da5830800000000000000
+      internalID: 4060790812022860312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f408352eedcb0fe80800000000000000
+      internalID: -8146804060447342513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 41
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8851655c81a0d390800000000000000
+      internalID: -7795553330878392181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 41
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becff03537921a6e0800000000000000
+      internalID: -1828134398444176149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe8a9e49e5fa2e40800000000000000
+      internalID: 5632584666375163582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbf6d8a84dcd3b10800000000000000
+      internalID: 1962950724557405137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 5
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2202d22c28858770800000000000000
+      internalID: 8612439585560068652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blueGhost_15
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3fcc878b4e08990800000000000000
+      internalID: -7385651907935800414
       vertices: []
       indices: 
       edges: []
