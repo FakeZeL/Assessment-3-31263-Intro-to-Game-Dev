@@ -1,55 +1,46 @@
 fileFormatVersion: 2
-guid: b430e849c9f5c4eef9b5995944e4ed07
+guid: f15ffec76c79946efa6007f6b4a96cbf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2093407290343602015
-    second: redGhost_0
+      213: 921115698812184553
+    second: greenDead_0
   - first:
-      213: -1847897983764719553
-    second: redGhost_1
+      213: 286157860102834072
+    second: greenDead_1
   - first:
-      213: 4993354490329960436
-    second: redGhost_2
+      213: 2754125584309957898
+    second: greenDead_2
   - first:
-      213: -5079172287561007214
-    second: redGhost_3
+      213: -6389846864569532704
+    second: greenDead_3
   - first:
-      213: 6495340299451901821
-    second: redGhost_4
+      213: -3151437348584014034
+    second: greenDead_4
   - first:
-      213: 9062610059514525122
-    second: redGhost_5
+      213: -3607741135587251407
+    second: greenDead_5
   - first:
-      213: 4776983513495084514
-    second: redGhost_6
+      213: 197811174336230755
+    second: greenDead_6
   - first:
-      213: 8791144559191276113
-    second: redGhost_7
+      213: 1186186678502005980
+    second: greenDead_7
   - first:
-      213: 3546471442780303260
-    second: redGhost_8
+      213: 6107678671863913460
+    second: greenDead_8
   - first:
-      213: 1771379054082237561
-    second: redGhost_9
+      213: -6670455032946313085
+    second: greenDead_9
   - first:
-      213: 7675789524663741394
-    second: redGhost_10
+      213: 6609499177754302643
+    second: greenDead_10
   - first:
-      213: -8101499338531950891
-    second: redGhost_11
+      213: 4554480884751412530
+    second: greenDead_11
   - first:
-      213: 6251243333515628452
-    second: redGhost_12
-  - first:
-      213: -710945659943877163
-    second: redGhost_13
-  - first:
-      213: -2441165885806952379
-    second: redGhost_14
-  - first:
-      213: 5208798703926610140
-    second: redGhost_15
+      213: 6283562982332343194
+    second: greenDead_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -158,13 +149,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: redGhost_0
+      name: greenDead_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 113
-        width: 28
-        height: 26
+        x: 5
+        y: 2
+        width: 25
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a84bd82929b2f2e0800000000000000
-      internalID: -2093407290343602015
+      spriteID: 9e76cb809d578cc00800000000000000
+      internalID: 921115698812184553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_1
+      name: greenDead_1
       rect:
         serializedVersion: 2
-        x: 61
-        y: 113
-        width: 26
-        height: 26
+        x: 19
+        y: 21
+        width: 7
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f381b880392fa56e0800000000000000
-      internalID: -1847897983764719553
+      spriteID: 8978d11ce03a8f300800000000000000
+      internalID: 286157860102834072
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_2
+      name: greenDead_2
       rect:
         serializedVersion: 2
-        x: 95
-        y: 113
-        width: 28
-        height: 26
+        x: 37
+        y: 2
+        width: 25
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4ff08b9f375fb4540800000000000000
-      internalID: 4993354490329960436
+      spriteID: a053c9f70ae983620800000000000000
+      internalID: 2754125584309957898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_3
+      name: greenDead_3
       rect:
         serializedVersion: 2
-        x: 131
-        y: 113
-        width: 26
-        height: 26
+        x: 44
+        y: 16
+        width: 6
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -235,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29ffaee07b72389b0800000000000000
-      internalID: -5079172287561007214
+      spriteID: 0ee703ca124b257a0800000000000000
+      internalID: -6389846864569532704
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_4
+      name: greenDead_4
       rect:
         serializedVersion: 2
-        x: 23
-        y: 77
-        width: 26
-        height: 26
+        x: 53
+        y: 20
+        width: 6
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d772c1ca695142a50800000000000000
-      internalID: 6495340299451901821
+      spriteID: e2f30c1bd68d344d0800000000000000
+      internalID: -3151437348584014034
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_5
+      name: greenDead_5
       rect:
         serializedVersion: 2
-        x: 57
-        y: 77
-        width: 28
-        height: 26
+        x: 69
+        y: 2
+        width: 25
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2c5be3755dbd4cd70800000000000000
-      internalID: 9062610059514525122
+      spriteID: 13be1c34d8abeedc0800000000000000
+      internalID: -3607741135587251407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_6
+      name: greenDead_6
       rect:
         serializedVersion: 2
-        x: 93
-        y: 77
-        width: 26
-        height: 26
+        x: 71
+        y: 10
+        width: 6
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -298,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ed95cb22314b4240800000000000000
-      internalID: 4776983513495084514
+      spriteID: 365f9ea0734ceb200800000000000000
+      internalID: 197811174336230755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_7
+      name: greenDead_7
       rect:
         serializedVersion: 2
-        x: 129
-        y: 77
-        width: 28
-        height: 26
+        x: 87
+        y: 14
+        width: 7
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,20 +310,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15a34bb266b600a70800000000000000
-      internalID: 8791144559191276113
+      spriteID: cdc9969df7e267010800000000000000
+      internalID: 1186186678502005980
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_8
+      name: greenDead_8
       rect:
         serializedVersion: 2
-        x: 23
-        y: 41
-        width: 26
-        height: 26
+        x: 91
+        y: 11
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,20 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9facf8bcf8973130800000000000000
-      internalID: 3546471442780303260
+      spriteID: 4fb9da66465d2c450800000000000000
+      internalID: 6107678671863913460
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_9
+      name: greenDead_9
       rect:
         serializedVersion: 2
-        x: 57
-        y: 41
-        width: 28
-        height: 26
+        x: 101
+        y: 2
+        width: 27
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,20 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 974a3215dd3359810800000000000000
-      internalID: 1771379054082237561
+      spriteID: 388b4073d78cd63a0800000000000000
+      internalID: -6670455032946313085
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_10
+      name: greenDead_10
       rect:
         serializedVersion: 2
-        x: 93
-        y: 41
-        width: 26
-        height: 26
+        x: 103
+        y: 13
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,20 +373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2db2f3497e1e58a60800000000000000
-      internalID: 7675789524663741394
+      spriteID: 3b81849cb78a9bb50800000000000000
+      internalID: 6609499177754302643
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_11
+      name: greenDead_11
       rect:
         serializedVersion: 2
-        x: 129
-        y: 41
-        width: 28
-        height: 26
+        x: 122
+        y: 13
+        width: 6
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,20 +394,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5deadb27641b19f80800000000000000
-      internalID: -8101499338531950891
+      spriteID: 23d2ae7eb34c43f30800000000000000
+      internalID: 4554480884751412530
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: redGhost_12
+      name: greenDead_12
       rect:
         serializedVersion: 2
-        x: 23
-        y: 5
-        width: 28
-        height: 26
+        x: 98
+        y: 7
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -424,71 +415,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4af4abaf0b0e0c650800000000000000
-      internalID: 6251243333515628452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redGhost_13
-      rect:
-        serializedVersion: 2
-        x: 61
-        y: 5
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5d5807460b63226f0800000000000000
-      internalID: -710945659943877163
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redGhost_14
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 5
-        width: 28
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 540ccaa8f8c3f1ed0800000000000000
-      internalID: -2441165885806952379
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: redGhost_15
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 5
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cd88f06e2de594840800000000000000
-      internalID: 5208798703926610140
+      spriteID: a93a6bd9d33b33750800000000000000
+      internalID: 6283562982332343194
       vertices: []
       indices: 
       edges: []

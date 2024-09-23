@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 625e66024563a4eaa9337e300c591a7d
+guid: aec533757e9eb4f17b875b2f075debbc
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5319120874658419088
-    second: ghostScared_0
+      213: -2721441131209376784
+    second: greenGhost_0
   - first:
-      213: -2587961293146187480
-    second: ghostScared_1
+      213: 4696204725446122051
+    second: greenGhost_1
   - first:
-      213: 8827494441665632550
-    second: ghostScared_2
+      213: -5668516214678524438
+    second: greenGhost_2
   - first:
-      213: -4616720909158593060
-    second: ghostScared_3
+      213: 1738579876088148628
+    second: greenGhost_3
   - first:
-      213: -2696674534837317938
-    second: ghostScared_4
+      213: -4997858577588615125
+    second: greenGhost_4
   - first:
-      213: -310193403883617301
-    second: ghostScared_5
+      213: 215463357368486394
+    second: greenGhost_5
   - first:
-      213: -5593707382188850475
-    second: ghostScared_6
+      213: 2227952143775496151
+    second: greenGhost_6
   - first:
-      213: -2209580016311371192
-    second: ghostScared_7
+      213: -81138364574241117
+    second: greenGhost_7
   - first:
-      213: -6450116134510335190
-    second: ghostScared_8
+      213: 3686966106091967927
+    second: greenGhost_8
   - first:
-      213: 4234702176558450474
-    second: ghostScared_9
+      213: -8159380119567809243
+    second: greenGhost_9
   - first:
-      213: -1662844084922979580
-    second: ghostScared_10
+      213: 6546743018523916658
+    second: greenGhost_10
   - first:
-      213: -5578612875670791152
-    second: ghostScared_11
+      213: 3182167293156312712
+    second: greenGhost_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,7 +146,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ghostScared_0
+      name: greenGhost_0
       rect:
         serializedVersion: 2
         x: 1
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 07eae941fbfae26b0800000000000000
-      internalID: -5319120874658419088
+      spriteID: 0fbb021c5bf7b3ad0800000000000000
+      internalID: -2721441131209376784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_1
+      name: greenGhost_1
       rect:
         serializedVersion: 2
         x: 33
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8299f8d5ae6b51cd0800000000000000
-      internalID: -2587961293146187480
+      spriteID: 34a1ab4f0554c2140800000000000000
+      internalID: 4696204725446122051
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_2
+      name: greenGhost_2
       rect:
         serializedVersion: 2
         x: 65
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6291734bc6f818a70800000000000000
-      internalID: 8827494441665632550
+      spriteID: aed6b8c29826551b0800000000000000
+      internalID: -5668516214678524438
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_3
+      name: greenGhost_3
       rect:
         serializedVersion: 2
         x: 3
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cddcb762bcc1eefb0800000000000000
-      internalID: -4616720909158593060
+      spriteID: 49270e79f2da02810800000000000000
+      internalID: 1738579876088148628
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_4
+      name: greenGhost_4
       rect:
         serializedVersion: 2
         x: 4
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ece0e245ccc739ad0800000000000000
-      internalID: -2696674534837317938
+      spriteID: b28013d7a1a04aab0800000000000000
+      internalID: -4997858577588615125
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_5
+      name: greenGhost_5
       rect:
         serializedVersion: 2
         x: 35
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be309dd1eb8f1bbf0800000000000000
-      internalID: -310193403883617301
+      spriteID: af9cf0e28ca7df200800000000000000
+      internalID: 215463357368486394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_6
+      name: greenGhost_6
       rect:
         serializedVersion: 2
         x: 36
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d2472bc5c82f52b0800000000000000
-      internalID: -5593707382188850475
+      spriteID: 7d7fe4aaba64bee10800000000000000
+      internalID: 2227952143775496151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_7
+      name: greenGhost_7
       rect:
         serializedVersion: 2
         x: 67
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84a75f89eaef551e0800000000000000
-      internalID: -2209580016311371192
+      spriteID: 3ae65e9561dbfdef0800000000000000
+      internalID: -81138364574241117
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_8
+      name: greenGhost_8
       rect:
         serializedVersion: 2
         x: 68
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2bee72cc859c76a0800000000000000
-      internalID: -6450116134510335190
+      spriteID: 7b5548c932cba2330800000000000000
+      internalID: 3686966106091967927
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_9
+      name: greenGhost_9
       rect:
         serializedVersion: 2
         x: 0
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a270753713fa4ca30800000000000000
-      internalID: 4234702176558450474
+      spriteID: 525c6c1f20f04ce80800000000000000
+      internalID: -8159380119567809243
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_10
+      name: greenGhost_10
       rect:
         serializedVersion: 2
         x: 31
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40b6e496d146ce8e0800000000000000
-      internalID: -1662844084922979580
+      spriteID: 279f2e6d614bada50800000000000000
+      internalID: 6546743018523916658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_11
+      name: greenGhost_11
       rect:
         serializedVersion: 2
         x: 63
@@ -391,8 +391,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01cd8367529c492b0800000000000000
-      internalID: -5578612875670791152
+      spriteID: 886c2741b44592c20800000000000000
+      internalID: 3182167293156312712
       vertices: []
       indices: 
       edges: []

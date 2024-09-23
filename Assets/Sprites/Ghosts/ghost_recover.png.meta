@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 625e66024563a4eaa9337e300c591a7d
+guid: 91bd716000e30478d99952a3bcd4f555
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -407,7 +407,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ghostScared_0: -5319120874658419088
+      ghostScared_1: -2587961293146187480
+      ghostScared_10: -1662844084922979580
+      ghostScared_11: -5578612875670791152
+      ghostScared_2: 8827494441665632550
+      ghostScared_3: -4616720909158593060
+      ghostScared_4: -2696674534837317938
+      ghostScared_5: -310193403883617301
+      ghostScared_6: -5593707382188850475
+      ghostScared_7: -2209580016311371192
+      ghostScared_8: -6450116134510335190
+      ghostScared_9: 4234702176558450474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

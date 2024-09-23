@@ -1,43 +1,46 @@
 fileFormatVersion: 2
-guid: 625e66024563a4eaa9337e300c591a7d
+guid: f02448c88def9412eaa435413dfdae93
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5319120874658419088
-    second: ghostScared_0
+      213: 3469558176260525473
+    second: redDead_0
   - first:
-      213: -2587961293146187480
-    second: ghostScared_1
+      213: 2603800480775164772
+    second: redDead_1
   - first:
-      213: 8827494441665632550
-    second: ghostScared_2
+      213: -760327059751360624
+    second: redDead_2
   - first:
-      213: -4616720909158593060
-    second: ghostScared_3
+      213: -88151574973722009
+    second: redDead_3
   - first:
-      213: -2696674534837317938
-    second: ghostScared_4
+      213: 6314344332320647010
+    second: redDead_4
   - first:
-      213: -310193403883617301
-    second: ghostScared_5
+      213: -8258238741903692563
+    second: redDead_5
   - first:
-      213: -5593707382188850475
-    second: ghostScared_6
+      213: 281898323626239735
+    second: redDead_6
   - first:
-      213: -2209580016311371192
-    second: ghostScared_7
+      213: -1241455489708086806
+    second: redDead_7
   - first:
-      213: -6450116134510335190
-    second: ghostScared_8
+      213: 7329815326135564776
+    second: redDead_8
   - first:
-      213: 4234702176558450474
-    second: ghostScared_9
+      213: 6553187491791782302
+    second: redDead_9
   - first:
-      213: -1662844084922979580
-    second: ghostScared_10
+      213: -5294603964626647541
+    second: redDead_10
   - first:
-      213: -5578612875670791152
-    second: ghostScared_11
+      213: 5003755606186571653
+    second: redDead_11
+  - first:
+      213: 3232014230106598770
+    second: redDead_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,13 +149,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ghostScared_0
+      name: redDead_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 100
-        width: 28
-        height: 28
+        x: 5
+        y: 2
+        width: 25
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 07eae941fbfae26b0800000000000000
-      internalID: -5319120874658419088
+      spriteID: 1ad8f8f57c8562030800000000000000
+      internalID: 3469558176260525473
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_1
+      name: redDead_1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 100
-        width: 28
-        height: 28
+        x: 19
+        y: 21
+        width: 7
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +184,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8299f8d5ae6b51cd0800000000000000
-      internalID: -2587961293146187480
+      spriteID: 4635892edbe822420800000000000000
+      internalID: 2603800480775164772
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_2
+      name: redDead_2
       rect:
         serializedVersion: 2
-        x: 65
-        y: 100
-        width: 28
-        height: 28
+        x: 37
+        y: 2
+        width: 25
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6291734bc6f818a70800000000000000
-      internalID: 8827494441665632550
+      spriteID: 097276a4196c275f0800000000000000
+      internalID: -760327059751360624
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_3
+      name: redDead_3
       rect:
         serializedVersion: 2
-        x: 3
-        y: 63
-        width: 28
-        height: 29
+        x: 44
+        y: 16
+        width: 6
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +226,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cddcb762bcc1eefb0800000000000000
-      internalID: -4616720909158593060
+      spriteID: 762dc4f0c92d6cef0800000000000000
+      internalID: -88151574973722009
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_4
+      name: redDead_4
       rect:
         serializedVersion: 2
-        x: 4
-        y: 35
-        width: 29
-        height: 28
+        x: 53
+        y: 20
+        width: 6
+        height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ece0e245ccc739ad0800000000000000
-      internalID: -2696674534837317938
+      spriteID: 267297527be01a750800000000000000
+      internalID: 6314344332320647010
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_5
+      name: redDead_5
       rect:
         serializedVersion: 2
-        x: 35
-        y: 63
-        width: 28
-        height: 29
+        x: 69
+        y: 2
+        width: 25
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +268,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be309dd1eb8f1bbf0800000000000000
-      internalID: -310193403883617301
+      spriteID: dec26764e97d46d80800000000000000
+      internalID: -8258238741903692563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_6
+      name: redDead_6
       rect:
         serializedVersion: 2
-        x: 36
-        y: 35
-        width: 29
-        height: 28
+        x: 71
+        y: 10
+        width: 6
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +289,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d2472bc5c82f52b0800000000000000
-      internalID: -5593707382188850475
+      spriteID: 7f62582280189e300800000000000000
+      internalID: 281898323626239735
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_7
+      name: redDead_7
       rect:
         serializedVersion: 2
-        x: 67
-        y: 63
-        width: 28
-        height: 29
+        x: 87
+        y: 14
+        width: 7
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +310,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84a75f89eaef551e0800000000000000
-      internalID: -2209580016311371192
+      spriteID: ae9ad734fc675cee0800000000000000
+      internalID: -1241455489708086806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_8
+      name: redDead_8
       rect:
         serializedVersion: 2
-        x: 68
-        y: 35
-        width: 28
-        height: 28
+        x: 91
+        y: 11
+        width: 6
+        height: 11
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +331,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2bee72cc859c76a0800000000000000
-      internalID: -6450116134510335190
+      spriteID: 8e9368f343cb8b560800000000000000
+      internalID: 7329815326135564776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_9
+      name: redDead_9
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3
-        width: 28
-        height: 28
+        x: 101
+        y: 2
+        width: 27
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +352,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a270753713fa4ca30800000000000000
-      internalID: 4234702176558450474
+      spriteID: e9148c2bd4991fa50800000000000000
+      internalID: 6553187491791782302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_10
+      name: redDead_10
       rect:
         serializedVersion: 2
-        x: 31
-        y: 3
-        width: 29
-        height: 28
+        x: 103
+        y: 13
+        width: 6
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -370,20 +373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40b6e496d146ce8e0800000000000000
-      internalID: -1662844084922979580
+      spriteID: b06cd060fb9c586b0800000000000000
+      internalID: -5294603964626647541
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_11
+      name: redDead_11
       rect:
         serializedVersion: 2
-        x: 63
-        y: 3
-        width: 29
-        height: 28
+        x: 122
+        y: 13
+        width: 6
+        height: 13
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,8 +394,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01cd8367529c492b0800000000000000
-      internalID: -5578612875670791152
+      spriteID: 587be997639e07540800000000000000
+      internalID: 5003755606186571653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: redDead_12
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 7
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de28e71db6adc20800000000000000
+      internalID: 3232014230106598770
       vertices: []
       indices: 
       edges: []

@@ -1,43 +1,43 @@
 fileFormatVersion: 2
-guid: 625e66024563a4eaa9337e300c591a7d
+guid: e35cf82e98f3b4ffd9a6038a24404ead
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5319120874658419088
-    second: ghostScared_0
+      213: -7496613901460262382
+    second: blueGhost_0
   - first:
-      213: -2587961293146187480
-    second: ghostScared_1
+      213: 7794220945642654495
+    second: blueGhost_1
   - first:
-      213: 8827494441665632550
-    second: ghostScared_2
+      213: 6634878758689761285
+    second: blueGhost_2
   - first:
-      213: -4616720909158593060
-    second: ghostScared_3
+      213: 8900881854151341064
+    second: blueGhost_3
   - first:
-      213: -2696674534837317938
-    second: ghostScared_4
+      213: 517992441423108543
+    second: blueGhost_4
   - first:
-      213: -310193403883617301
-    second: ghostScared_5
+      213: 6064281200476570231
+    second: blueGhost_5
   - first:
-      213: -5593707382188850475
-    second: ghostScared_6
+      213: 7278019159404188015
+    second: blueGhost_6
   - first:
-      213: -2209580016311371192
-    second: ghostScared_7
+      213: -8402262316875976070
+    second: blueGhost_7
   - first:
-      213: -6450116134510335190
-    second: ghostScared_8
+      213: 4060790812022860312
+    second: blueGhost_8
   - first:
-      213: 4234702176558450474
-    second: ghostScared_9
+      213: -8146804060447342513
+    second: blueGhost_9
   - first:
-      213: -1662844084922979580
-    second: ghostScared_10
+      213: -7795553330878392181
+    second: blueGhost_10
   - first:
-      213: -5578612875670791152
-    second: ghostScared_11
+      213: -1828134398444176149
+    second: blueGhost_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -146,7 +146,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ghostScared_0
+      name: blueGhost_0
       rect:
         serializedVersion: 2
         x: 1
@@ -160,14 +160,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 07eae941fbfae26b0800000000000000
-      internalID: -5319120874658419088
+      spriteID: 212b439106da6f790800000000000000
+      internalID: -7496613901460262382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_1
+      name: blueGhost_1
       rect:
         serializedVersion: 2
         x: 33
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8299f8d5ae6b51cd0800000000000000
-      internalID: -2587961293146187480
+      spriteID: f1b80fd87a2aa2c60800000000000000
+      internalID: 7794220945642654495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_2
+      name: blueGhost_2
       rect:
         serializedVersion: 2
         x: 65
@@ -202,14 +202,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6291734bc6f818a70800000000000000
-      internalID: 8827494441665632550
+      spriteID: 508ec73f313d31c50800000000000000
+      internalID: 6634878758689761285
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_3
+      name: blueGhost_3
       rect:
         serializedVersion: 2
         x: 3
@@ -223,14 +223,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cddcb762bcc1eefb0800000000000000
-      internalID: -4616720909158593060
+      spriteID: 804396033e8468b70800000000000000
+      internalID: 8900881854151341064
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_4
+      name: blueGhost_4
       rect:
         serializedVersion: 2
         x: 4
@@ -244,14 +244,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ece0e245ccc739ad0800000000000000
-      internalID: -2696674534837317938
+      spriteID: fb99c5b8167403700800000000000000
+      internalID: 517992441423108543
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_5
+      name: blueGhost_5
       rect:
         serializedVersion: 2
         x: 35
@@ -265,14 +265,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: be309dd1eb8f1bbf0800000000000000
-      internalID: -310193403883617301
+      spriteID: 7724c743f97a82450800000000000000
+      internalID: 6064281200476570231
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_6
+      name: blueGhost_6
       rect:
         serializedVersion: 2
         x: 36
@@ -286,14 +286,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d2472bc5c82f52b0800000000000000
-      internalID: -5593707382188850475
+      spriteID: f6116c86dd7b00560800000000000000
+      internalID: 7278019159404188015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_7
+      name: blueGhost_7
       rect:
         serializedVersion: 2
         x: 67
@@ -307,14 +307,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 84a75f89eaef551e0800000000000000
-      internalID: -2209580016311371192
+      spriteID: a72f4fc90fa256b80800000000000000
+      internalID: -8402262316875976070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_8
+      name: blueGhost_8
       rect:
         serializedVersion: 2
         x: 68
@@ -328,14 +328,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a2bee72cc859c76a0800000000000000
-      internalID: -6450116134510335190
+      spriteID: 81aeac18ab3da5830800000000000000
+      internalID: 4060790812022860312
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_9
+      name: blueGhost_9
       rect:
         serializedVersion: 2
         x: 0
@@ -349,14 +349,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a270753713fa4ca30800000000000000
-      internalID: 4234702176558450474
+      spriteID: f408352eedcb0fe80800000000000000
+      internalID: -8146804060447342513
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_10
+      name: blueGhost_10
       rect:
         serializedVersion: 2
         x: 31
@@ -370,14 +370,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 40b6e496d146ce8e0800000000000000
-      internalID: -1662844084922979580
+      spriteID: b8851655c81a0d390800000000000000
+      internalID: -7795553330878392181
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ghostScared_11
+      name: blueGhost_11
       rect:
         serializedVersion: 2
         x: 63
@@ -391,8 +391,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 01cd8367529c492b0800000000000000
-      internalID: -5578612875670791152
+      spriteID: becff03537921a6e0800000000000000
+      internalID: -1828134398444176149
       vertices: []
       indices: 
       edges: []

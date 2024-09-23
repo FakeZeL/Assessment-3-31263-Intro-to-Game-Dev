@@ -1,55 +1,43 @@
 fileFormatVersion: 2
-guid: e35cf82e98f3b4ffd9a6038a24404ead
+guid: 12a0c47654d2243329a0e95e1a843aaa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7496613901460262382
-    second: blueGhost_0
+      213: -7887000426086827983
+    second: pinkGhost_0
   - first:
-      213: 7794220945642654495
-    second: blueGhost_1
+      213: 7838361541645739793
+    second: pinkGhost_1
   - first:
-      213: 6634878758689761285
-    second: blueGhost_2
+      213: 8886305887582073028
+    second: pinkGhost_2
   - first:
-      213: 8900881854151341064
-    second: blueGhost_3
+      213: -1547548032767097137
+    second: pinkGhost_3
   - first:
-      213: 517992441423108543
-    second: blueGhost_4
+      213: 1488133586134959870
+    second: pinkGhost_4
   - first:
-      213: 6064281200476570231
-    second: blueGhost_5
+      213: 8652086805174728249
+    second: pinkGhost_5
   - first:
-      213: 7278019159404188015
-    second: blueGhost_6
+      213: -6279508905538776992
+    second: pinkGhost_6
   - first:
-      213: -8402262316875976070
-    second: blueGhost_7
+      213: 684370164863307382
+    second: pinkGhost_7
   - first:
-      213: 4060790812022860312
-    second: blueGhost_8
+      213: 603176941585759650
+    second: pinkGhost_8
   - first:
-      213: -8146804060447342513
-    second: blueGhost_9
+      213: -8854816477701395048
+    second: pinkGhost_9
   - first:
-      213: -7795553330878392181
-    second: blueGhost_10
+      213: -8572789207312110430
+    second: pinkGhost_10
   - first:
-      213: -1828134398444176149
-    second: blueGhost_11
-  - first:
-      213: 5632584666375163582
-    second: blueGhost_12
-  - first:
-      213: 1962950724557405137
-    second: blueGhost_13
-  - first:
-      213: 8612439585560068652
-    second: blueGhost_14
-  - first:
-      213: -7385651907935800414
-    second: blueGhost_15
+      213: 4024343488322724802
+    second: pinkGhost_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -158,13 +146,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: blueGhost_0
+      name: pinkGhost_0
       rect:
         serializedVersion: 2
-        x: 23
-        y: 113
+        x: 1
+        y: 100
         width: 28
-        height: 26
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -172,41 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 212b439106da6f790800000000000000
-      internalID: -7496613901460262382
+      spriteID: 1387dbb46eebb8290800000000000000
+      internalID: -7887000426086827983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_1
+      name: pinkGhost_1
       rect:
         serializedVersion: 2
-        x: 61
-        y: 113
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f1b80fd87a2aa2c60800000000000000
-      internalID: 7794220945642654495
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueGhost_2
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 113
+        x: 33
+        y: 100
         width: 28
-        height: 26
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -214,62 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 508ec73f313d31c50800000000000000
-      internalID: 6634878758689761285
+      spriteID: 117a0eeea4477cc60800000000000000
+      internalID: 7838361541645739793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_3
+      name: pinkGhost_2
       rect:
         serializedVersion: 2
-        x: 131
-        y: 113
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 804396033e8468b70800000000000000
-      internalID: 8900881854151341064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueGhost_4
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 77
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb99c5b8167403700800000000000000
-      internalID: 517992441423108543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueGhost_5
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 77
+        x: 65
+        y: 100
         width: 28
-        height: 26
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,41 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7724c743f97a82450800000000000000
-      internalID: 6064281200476570231
+      spriteID: 4c0bac28f10825b70800000000000000
+      internalID: 8886305887582073028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_6
+      name: pinkGhost_3
       rect:
         serializedVersion: 2
-        x: 93
-        y: 77
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6116c86dd7b00560800000000000000
-      internalID: 7278019159404188015
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueGhost_7
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 77
+        x: 3
+        y: 63
         width: 28
-        height: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -319,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a72f4fc90fa256b80800000000000000
-      internalID: -8402262316875976070
+      spriteID: fc600127341068ae0800000000000000
+      internalID: -1547548032767097137
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_8
+      name: pinkGhost_4
       rect:
         serializedVersion: 2
-        x: 23
-        y: 41
-        width: 26
-        height: 26
+        x: 4
+        y: 35
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 81aeac18ab3da5830800000000000000
-      internalID: 4060790812022860312
+      spriteID: ef607e3bc99e6a410800000000000000
+      internalID: 1488133586134959870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_9
+      name: pinkGhost_5
       rect:
         serializedVersion: 2
-        x: 57
-        y: 41
+        x: 35
+        y: 63
         width: 28
-        height: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -361,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f408352eedcb0fe80800000000000000
-      internalID: -8146804060447342513
+      spriteID: 936b84ccb13621870800000000000000
+      internalID: 8652086805174728249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_10
+      name: pinkGhost_6
       rect:
         serializedVersion: 2
-        x: 93
-        y: 41
-        width: 26
-        height: 26
+        x: 36
+        y: 35
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -382,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8851655c81a0d390800000000000000
-      internalID: -7795553330878392181
+      spriteID: 0609571bbe3bad8a0800000000000000
+      internalID: -6279508905538776992
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_11
+      name: pinkGhost_7
       rect:
         serializedVersion: 2
-        x: 129
-        y: 41
+        x: 67
+        y: 63
         width: 28
-        height: 26
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -403,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: becff03537921a6e0800000000000000
-      internalID: -1828134398444176149
+      spriteID: 67e8d8bf90f5f7900800000000000000
+      internalID: 684370164863307382
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_12
+      name: pinkGhost_8
       rect:
         serializedVersion: 2
-        x: 23
-        y: 5
+        x: 68
+        y: 35
         width: 28
-        height: 26
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -424,41 +328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ebe8a9e49e5fa2e40800000000000000
-      internalID: 5632584666375163582
+      spriteID: 2adfceb8b3aee5800800000000000000
+      internalID: 603176941585759650
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_13
+      name: pinkGhost_9
       rect:
         serializedVersion: 2
-        x: 61
-        y: 5
-        width: 26
-        height: 26
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1dbf6d8a84dcd3b10800000000000000
-      internalID: 1962950724557405137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueGhost_14
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 5
+        x: 0
+        y: 3
         width: 28
-        height: 26
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -466,20 +349,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c2202d22c28858770800000000000000
-      internalID: 8612439585560068652
+      spriteID: 89d255f045f5d1580800000000000000
+      internalID: -8854816477701395048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: blueGhost_15
+      name: pinkGhost_10
       rect:
         serializedVersion: 2
-        x: 131
-        y: 5
-        width: 26
-        height: 26
+        x: 31
+        y: 3
+        width: 29
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -487,8 +370,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2a3fcc878b4e08990800000000000000
-      internalID: -7385651907935800414
+      spriteID: 2acebd3f2a5570980800000000000000
+      internalID: -8572789207312110430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pinkGhost_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 3
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e1aba41759d730800000000000000
+      internalID: 4024343488322724802
       vertices: []
       indices: 
       edges: []
