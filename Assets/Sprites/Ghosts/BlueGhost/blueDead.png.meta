@@ -152,18 +152,18 @@ TextureImporter:
       name: blueDead_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 2
         y: 2
-        width: 25
-        height: 23
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b68ed4b8f950fcb50800000000000000
+      spriteID: 6541d7c4bdfc645fdb27db2188eced8f
       internalID: 6615512560425625707
       vertices: []
       indices: 
@@ -173,18 +173,18 @@ TextureImporter:
       name: blueDead_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 21
-        width: 7
-        height: 11
+        x: 34
+        y: 2
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9ef95fd2db7e3f380800000000000000
+      spriteID: caabe27b81c5e49a78d17f8d231e79ee
       internalID: -8938546035694395415
       vertices: []
       indices: 
@@ -194,18 +194,18 @@ TextureImporter:
       name: blueDead_2
       rect:
         serializedVersion: 2
-        x: 37
+        x: 66
         y: 2
-        width: 25
-        height: 19
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ccc3c67637c6571f0800000000000000
+      spriteID: 6c5b51133c32a4bc195d495348af03ec
       internalID: -1047812095381586740
       vertices: []
       indices: 
@@ -215,208 +215,19 @@ TextureImporter:
       name: blueDead_3
       rect:
         serializedVersion: 2
-        x: 44
-        y: 16
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 95c12a67a53dc3230800000000000000
-      internalID: 3620000585989889113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_4
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 20
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1550a13732753cbb0800000000000000
-      internalID: -4916990558391892655
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_5
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 2
-        width: 25
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 24dbecc5e15fe6000800000000000000
-      internalID: 31231758193048898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_6
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 10
-        width: 6
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5ba8f821d502c12b0800000000000000
-      internalID: -5612575451495036235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_7
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 14
-        width: 7
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0e8f1fa3701d5b90800000000000000
-      internalID: -7251621735951266290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_8
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 11
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c03939bcaf1114800800000000000000
-      internalID: 594776394644558604
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_9
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 2
-        width: 27
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f715c0d496a779c80800000000000000
-      internalID: -8316043594233523841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_10
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 13
-        width: 6
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 60b3295a8d48983e0800000000000000
-      internalID: -2050962089264923898
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_11
-      rect:
-        serializedVersion: 2
-        x: 122
-        y: 13
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5428a26489f28c220800000000000000
-      internalID: 2506305523690406469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: blueDead_12
-      rect:
-        serializedVersion: 2
         x: 98
-        y: 7
-        width: 6
-        height: 12
+        y: 2
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eb3bd47404f9eead0800000000000000
-      internalID: -2671022430561127490
+      spriteID: b0fab132afc5443efbb0e4b428d2f70e
+      internalID: 3620000585989889113
       vertices: []
       indices: 
       edges: []
@@ -424,14 +235,18 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0970e98b497fe402b8035cad18368ff0
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blueDead_0: -697481313
+      blueDead_1: 649938406
+      blueDead_2: 6615512560425625707
+      blueDead_3: -8938546035694395415
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -152,19 +152,19 @@ TextureImporter:
       name: greenDead_0
       rect:
         serializedVersion: 2
-        x: 5
+        x: 2
         y: 2
-        width: 25
-        height: 23
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9e76cb809d578cc00800000000000000
-      internalID: 921115698812184553
+      spriteID: 62dc6b22805e84bbf9a819fc06a85d01
+      internalID: 1784703389
       vertices: []
       indices: 
       edges: []
@@ -173,19 +173,19 @@ TextureImporter:
       name: greenDead_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 21
-        width: 7
-        height: 11
+        x: 34
+        y: 2
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8978d11ce03a8f300800000000000000
-      internalID: 286157860102834072
+      spriteID: 3d2f8447b180845a4a5193286e1666eb
+      internalID: -1645693346
       vertices: []
       indices: 
       edges: []
@@ -194,19 +194,19 @@ TextureImporter:
       name: greenDead_2
       rect:
         serializedVersion: 2
-        x: 37
+        x: 66
         y: 2
-        width: 25
-        height: 19
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a053c9f70ae983620800000000000000
-      internalID: 2754125584309957898
+      spriteID: 6eac5da82c63c42f59d572ec41bcf053
+      internalID: -900874175
       vertices: []
       indices: 
       edges: []
@@ -215,208 +215,19 @@ TextureImporter:
       name: greenDead_3
       rect:
         serializedVersion: 2
-        x: 44
-        y: 16
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0ee703ca124b257a0800000000000000
-      internalID: -6389846864569532704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_4
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 20
-        width: 6
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2f30c1bd68d344d0800000000000000
-      internalID: -3151437348584014034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_5
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 2
-        width: 25
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13be1c34d8abeedc0800000000000000
-      internalID: -3607741135587251407
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_6
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 10
-        width: 6
-        height: 20
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 365f9ea0734ceb200800000000000000
-      internalID: 197811174336230755
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_7
-      rect:
-        serializedVersion: 2
-        x: 87
-        y: 14
-        width: 7
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cdc9969df7e267010800000000000000
-      internalID: 1186186678502005980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_8
-      rect:
-        serializedVersion: 2
-        x: 91
-        y: 11
-        width: 6
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4fb9da66465d2c450800000000000000
-      internalID: 6107678671863913460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_9
-      rect:
-        serializedVersion: 2
-        x: 101
-        y: 2
-        width: 27
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 388b4073d78cd63a0800000000000000
-      internalID: -6670455032946313085
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_10
-      rect:
-        serializedVersion: 2
-        x: 103
-        y: 13
-        width: 6
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3b81849cb78a9bb50800000000000000
-      internalID: 6609499177754302643
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_11
-      rect:
-        serializedVersion: 2
-        x: 122
-        y: 13
-        width: 6
-        height: 13
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23d2ae7eb34c43f30800000000000000
-      internalID: 4554480884751412530
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: greenDead_12
-      rect:
-        serializedVersion: 2
         x: 98
-        y: 7
-        width: 6
-        height: 12
+        y: 2
+        width: 30
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a93a6bd9d33b33750800000000000000
-      internalID: 6283562982332343194
+      spriteID: 5bc899ad96cde410588129a2b1c79b1c
+      internalID: 304286658
       vertices: []
       indices: 
       edges: []
@@ -424,14 +235,18 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 79f88d3fb3004422d9394753e03caa6d
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      greenDead_0: 1784703389
+      greenDead_1: -1645693346
+      greenDead_2: -900874175
+      greenDead_3: 304286658
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
