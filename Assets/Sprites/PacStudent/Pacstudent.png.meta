@@ -1,37 +1,46 @@
 fileFormatVersion: 2
-guid: e13070f4e4f2543c4b8997e7b795cbe2
+guid: 28e1f4c5a388b46cd93ab6e3922005bf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1724917626407922936
-    second: Pacstudent(1)_0
+      213: -7090179112662265371
+    second: PacStudent_0
   - first:
-      213: 8575346240233883215
-    second: Pacstudent(1)_1
+      213: 9183320132552326711
+    second: PacStudent_1
   - first:
-      213: 7188289831406491845
-    second: Pacstudent(1)_2
+      213: -9050966025342474002
+    second: PacStudent_2
   - first:
-      213: -4410126331417543120
-    second: Pacstudent(1)_3
+      213: 8190684472983725799
+    second: PacStudent_3
   - first:
-      213: 6385829262663094355
-    second: Pacstudent(1)_4
+      213: -4981195885117398326
+    second: PacStudent_4
   - first:
-      213: 700454376264571124
-    second: Pacstudent(1)_5
+      213: 7858063409836328539
+    second: PacStudent_5
   - first:
-      213: 1334656578465051848
-    second: Pacstudent(1)_6
+      213: 9220141820047338311
+    second: PacStudent_6
   - first:
-      213: 3443797757510814982
-    second: Pacstudent(1)_7
+      213: 7476170162588300667
+    second: PacStudent_7
   - first:
-      213: -8541964125076942024
-    second: Pacstudent(1)_8
+      213: -6174760197969600632
+    second: PacStudent_8
   - first:
-      213: -3734669467034877596
-    second: Pacstudent(1)_9
+      213: -9048997013431678418
+    second: PacStudent_9
+  - first:
+      213: 4237370120856784174
+    second: PacStudent_10
+  - first:
+      213: 6329144429400465066
+    second: PacStudent_11
+  - first:
+      213: 4447017249517963057
+    second: PacStudent_12
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -140,211 +149,274 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PacStudent_Start
+      name: PacStudent_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 128
+        x: 8
+        y: 140
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8fcaad4317320f710800000000000000
-      internalID: 1724917626407922936
+      spriteID: 5e11fd399af9a9d90800000000000000
+      internalID: -7090179112662265371
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Down1
+      name: PacStudent_1
       rect:
         serializedVersion: 2
-        x: 35
-        y: 128
+        x: 40
+        y: 140
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f464f1ba8ffb10770800000000000000
-      internalID: 8575346240233883215
+      spriteID: 73e79775105b17f70800000000000000
+      internalID: 9183320132552326711
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Down2
+      name: PacStudent_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 128
+        x: 72
+        y: 140
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5c85987348fe1c360800000000000000
-      internalID: 7188289831406491845
+      spriteID: ee82551aa52846280800000000000000
+      internalID: -9050966025342474002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Right1
+      name: PacStudent_3
       rect:
         serializedVersion: 2
-        x: 114
-        y: 128
-        width: 27
+        x: 119
+        y: 140
+        width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 03eb249a7751cc2c0800000000000000
-      internalID: -4410126331417543120
+      spriteID: 7e6a08fc1282ba170800000000000000
+      internalID: 8190684472983725799
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Right2
+      name: PacStudent_4
       rect:
         serializedVersion: 2
-        x: 145
-        y: 128
+        x: 149
+        y: 140
         width: 30
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 350145d71e50f9850800000000000000
-      internalID: 6385829262663094355
+      spriteID: ac2a0f6ebbc3fdab0800000000000000
+      internalID: -4981195885117398326
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Left1
+      name: PacStudent_5
       rect:
         serializedVersion: 2
-        x: 210
-        y: 128
+        x: 215
+        y: 140
         width: 30
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4f81e964b8388b900800000000000000
-      internalID: 700454376264571124
+      spriteID: b560ac599037d0d60800000000000000
+      internalID: 7858063409836328539
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Left2
+      name: PacStudent_6
       rect:
         serializedVersion: 2
-        x: 244
-        y: 128
+        x: 249
+        y: 140
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8c43c883617a58210800000000000000
-      internalID: 1334656578465051848
+      spriteID: 74b25aa822684ff70800000000000000
+      internalID: 9220141820047338311
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Up1
+      name: PacStudent_7
       rect:
         serializedVersion: 2
-        x: 3
-        y: 32
+        x: 8
+        y: 44
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 60d08be70d3dacf20800000000000000
-      internalID: 3443797757510814982
+      spriteID: b7533750721b0c760800000000000000
+      internalID: 7476170162588300667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Up2
+      name: PacStudent_8
       rect:
         serializedVersion: 2
-        x: 35
-        y: 32
+        x: 40
+        y: 44
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 83398a0b2e8d47980800000000000000
-      internalID: -8541964125076942024
+      spriteID: 88f1dc2b058de4aa0800000000000000
+      internalID: -6174760197969600632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pacstudent_Up3
+      name: PacStudent_9
       rect:
         serializedVersion: 2
-        x: 67
-        y: 32
+        x: 72
+        y: 44
         width: 26
         height: 32
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 46183e728e9cb2cc0800000000000000
-      internalID: -3734669467034877596
+      spriteID: e2a85d0f8218b6280800000000000000
+      internalID: -9048997013431678418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudent_10
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 48
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc583aca92eca30800000000000000
+      internalID: 4237370120856784174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudent_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 52
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae9e864353a5d750800000000000000
+      internalID: 6329144429400465066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PacStudent_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1378d8b80aaf6bd30800000000000000
+      internalID: 4447017249517963057
       vertices: []
       indices: 
       edges: []
@@ -352,24 +424,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: bf2c976f0b39c4b19b43fb6e1ac36d70
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      PacStudent_Start: 1724917626407922936
-      Pacstudent_Down1: 8575346240233883215
-      Pacstudent_Down2: 7188289831406491845
-      Pacstudent_Left1: 700454376264571124
-      Pacstudent_Left2: 1334656578465051848
-      Pacstudent_Right1: -4410126331417543120
-      Pacstudent_Right2: 6385829262663094355
-      Pacstudent_Up1: 3443797757510814982
-      Pacstudent_Up2: -8541964125076942024
-      Pacstudent_Up3: -3734669467034877596
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
