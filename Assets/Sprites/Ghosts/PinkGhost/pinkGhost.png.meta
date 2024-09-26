@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -407,7 +407,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      pinkGhost_0: -7887000426086827983
+      pinkGhost_1: 7838361541645739793
+      pinkGhost_10: -8572789207312110430
+      pinkGhost_11: 4024343488322724802
+      pinkGhost_2: 8886305887582073028
+      pinkGhost_3: -1547548032767097137
+      pinkGhost_4: 1488133586134959870
+      pinkGhost_5: 8652086805174728249
+      pinkGhost_6: -6279508905538776992
+      pinkGhost_7: 684370164863307382
+      pinkGhost_8: 603176941585759650
+      pinkGhost_9: -8854816477701395048
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

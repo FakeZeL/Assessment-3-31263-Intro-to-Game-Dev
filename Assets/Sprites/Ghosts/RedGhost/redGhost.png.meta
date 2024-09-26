@@ -84,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -407,7 +407,19 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      redGhost_0: -2093407290343602015
+      redGhost_1: -1847897983764719553
+      redGhost_10: 7675789524663741394
+      redGhost_11: -8101499338531950891
+      redGhost_2: 4993354490329960436
+      redGhost_3: -5079172287561007214
+      redGhost_4: 6495340299451901821
+      redGhost_5: 9062610059514525122
+      redGhost_6: 4776983513495084514
+      redGhost_7: 8791144559191276113
+      redGhost_8: 3546471442780303260
+      redGhost_9: 1771379054082237561
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
