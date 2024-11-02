@@ -3,7 +3,7 @@ using UnityEngine.UI;
 using TMPro;
 using System;
 
-public class HUDManager : MonoBehaviour
+public class HudManager : MonoBehaviour
 {
     public TextMeshProUGUI scoreText;
     public TextMeshProUGUI gameTimerText;
@@ -25,9 +25,11 @@ public class HUDManager : MonoBehaviour
 
     void Update()
     {
+        // Update the game timer
         gameTime += Time.deltaTime;
         UpdateGameTimer(gameTime);
 
+        // Update the ghost scared timer if active
         if (ghostScaredActive)
         {
             ghostScaredTime -= Time.deltaTime;
