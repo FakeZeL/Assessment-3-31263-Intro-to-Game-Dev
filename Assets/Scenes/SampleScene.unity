@@ -19418,6 +19418,7 @@ GameObject:
   - component: {fileID: 1754850579}
   - component: {fileID: 1754850578}
   - component: {fileID: 1754850577}
+  - component: {fileID: 1754850581}
   m_Layer: 5
   m_Name: HUD
   m_TagString: Untagged
@@ -19514,6 +19515,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1754850581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754850576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0caea042909a143b7b7399a3a44b70e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 2042109867}
+  gameTimerText: {fileID: 652383300}
+  ghostScaredTimerText: {fileID: 789259671}
 --- !u!1 &1845482403
 GameObject:
   m_ObjectHideFlags: 0
