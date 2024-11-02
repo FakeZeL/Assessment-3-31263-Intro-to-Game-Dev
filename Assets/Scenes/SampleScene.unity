@@ -554,6 +554,7 @@ GameObject:
   - component: {fileID: 247129825}
   - component: {fileID: 247129827}
   - component: {fileID: 247129828}
+  - component: {fileID: 247129829}
   m_Layer: 0
   m_Name: PacStudent
   m_TagString: Untagged
@@ -662,8 +663,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 39377ba817f0649268ef52c2f8a4a7a2, type: 3}
-  m_Resource: {fileID: 8300000, guid: 39377ba817f0649268ef52c2f8a4a7a2, type: 3}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
   m_Volume: 0.4
   m_Pitch: 1
@@ -749,6 +750,22 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!114 &247129829
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 247129824}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3949fef1e90a48cc801419fe03e2aff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveSpeed: 4
+  pelletAudio: {fileID: 8300000, guid: fbe7557ebfbac4006805c781ed34b3c3, type: 3}
+  movingAudio: {fileID: 8300000, guid: 39377ba817f0649268ef52c2f8a4a7a2, type: 3}
+  walkableTilemap: {fileID: 944660391}
 --- !u!1 &305083982
 GameObject:
   m_ObjectHideFlags: 0
@@ -12334,7 +12351,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: GHOST SCARED
+  m_text: 00:00:00
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
   m_sharedMaterial: {fileID: 2164040, guid: 5302535af1044152a457ed104f1f4b91, type: 2}
@@ -19250,52 +19267,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &1708421104
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1708421106}
-  - component: {fileID: 1708421105}
-  m_Layer: 0
-  m_Name: pacController
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1708421105
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1708421104}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 21d8100811f074fd8ba12f8bb1dcaa56, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  pacStudent: {fileID: 247129824}
-  moveSpeed: 2
---- !u!4 &1708421106
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1708421104}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.5140061, y: -11.8976, z: 0.055586733}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1753959655
 GameObject:
   m_ObjectHideFlags: 0
@@ -19418,6 +19389,7 @@ GameObject:
   - component: {fileID: 1754850579}
   - component: {fileID: 1754850578}
   - component: {fileID: 1754850577}
+  - component: {fileID: 1754850581}
   m_Layer: 5
   m_Name: HUD
   m_TagString: Untagged
@@ -19514,6 +19486,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1754850581
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1754850576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0caea042909a143b7b7399a3a44b70e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 2042109867}
+  gameTimerText: {fileID: 652383300}
+  ghostScaredTimerText: {fileID: 789259671}
 --- !u!1 &1845482403
 GameObject:
   m_ObjectHideFlags: 0
@@ -19948,7 +19935,6 @@ SceneRoots:
   - {fileID: 519420032}
   - {fileID: 781724837}
   - {fileID: 247129826}
-  - {fileID: 1708421106}
   - {fileID: 1278510280}
   - {fileID: 104568182}
   - {fileID: 1879387501}
