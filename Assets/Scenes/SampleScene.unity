@@ -19495,7 +19495,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1754850576}
   m_Enabled: 1
   m_EditorHideFlags: 0
+<<<<<<< Updated upstream
   m_Script: {fileID: 11500000, guid: 0caea042909a143b7b7399a3a44b70e9, type: 3}
+=======
+  m_Script: {fileID: 11500000, guid: 85fa19b393f284cd89e48cbf6559098b, type: 3}
+>>>>>>> Stashed changes
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 2042109867}
