@@ -26,25 +26,32 @@ public class BonusController : MonoBehaviour
 
     void SpawnCherry()
     {
-        float randomSide = Random.Range(0, 4);
+        int dir = Random.Range(0, 4);
+        Vector3 leftEdge = Camera.main.ScreenToWorldPoint(new Vector3(0, Screen.height / 2, 0));
+        Vector3 rightEdge = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width, Screen.height / 2, 0));
+        Vector3 topEdge = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width / 2, Screen.height, 0));
+        Vector3 bottomEdge = Camera.main.ScreenToWorldPoint(new Vector3(Screen.width / 2, 0, 0));
 
-        switch (randomSide)
+        switch (dir)
         {
-            case 0: // Left
-                startPos = new Vector3(mainCamera.transform.position.x - mainCamera.orthographicSize * 2, Random.Range(-5, 5), 0);
-                endPos = new Vector3(mainCamera.transform.position.x + mainCamera.orthographicSize * 2, Random.Range(-5, 5), 0);
+            case 0: // From left to right
+                startPos = new Vector3(leftEdge.x - 1, Random.Range(bottomEdge.y, topEdge.y), 0);
+                endPos = new Vector3(rightEdge.x + 1, Random.Range(bottomEdge.y, topEdge.y), 0);
                 break;
-            case 1: // Right
-                startPos = new Vector3(mainCamera.transform.position.x + mainCamera.orthographicSize * 2, Random.Range(-5, 5), 0);
-                endPos = new Vector3(mainCamera.transform.position.x - mainCamera.orthographicSize * 2, Random.Range(-5, 5), 0);
+
+            case 1: // From right to left
+                startPos = new Vector3(rightEdge.x + 1, Random.Range(bottomEdge.y, topEdge.y), 0);
+                endPos = new Vector3(leftEdge.x - 1, Random.Range(bottomEdge.y, topEdge.y), 0);
                 break;
-            case 2: // Top
-                startPos = new Vector3(Random.Range(-5, 5), mainCamera.transform.position.y + mainCamera.orthographicSize, 0);
-                endPos = new Vector3(Random.Range(-5, 5), mainCamera.transform.position.y - mainCamera.orthographicSize, 0);
+
+            case 2: // From top to bottom
+                startPos = new Vector3(Random.Range(leftEdge.x, rightEdge.x), topEdge.y + 1, 0);
+                endPos = new Vector3(Random.Range(leftEdge.x, rightEdge.x), bottomEdge.y - 1, 0);
                 break;
-            case 3: // Bottom
-                startPos = new Vector3(Random.Range(-5, 5), mainCamera.transform.position.y - mainCamera.orthographicSize, 0);
-                endPos = new Vector3(Random.Range(-5, 5), mainCamera.transform.position.y + mainCamera.orthographicSize, 0);
+
+            case 3: // From bottom to top
+                startPos = new Vector3(Random.Range(leftEdge.x, rightEdge.x), bottomEdge.y - 1, 0);
+                endPos = new Vector3(Random.Range(leftEdge.x, rightEdge.x), topEdge.y + 1, 0);
                 break;
         }
 

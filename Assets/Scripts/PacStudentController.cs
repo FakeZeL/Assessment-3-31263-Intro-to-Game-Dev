@@ -1,5 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
@@ -10,6 +9,7 @@ public class PacStudentController : MonoBehaviour
     public AudioClip movingAudio;
     public ParticleSystem dustEffect;
     public Tilemap walkableTilemap; // Reference to the walkable area Tilemap
+    public Vector3 cellOffset = new Vector3(0.5f, 0.5f, 0); // Offset to center PacStudent in the cell
 
     private Vector2Int currentGridPosition;  // Current grid position
     private Vector2Int targetGridPosition;   // Next target position to Lerp to
@@ -29,6 +29,9 @@ public class PacStudentController : MonoBehaviour
         Vector3Int startPosition = walkableTilemap.WorldToCell(transform.position);
         currentGridPosition = new Vector2Int(startPosition.x, startPosition.y);
         targetGridPosition = currentGridPosition;
+
+        // Center PacStudent's initial position in the cell
+        transform.position = walkableTilemap.CellToWorld(startPosition) + cellOffset;
     }
 
     void Update()
@@ -44,6 +47,9 @@ public class PacStudentController : MonoBehaviour
                 TryMove(currentInput); // If blocked, fallback to current direction
             }
         }
+
+        // Update the Animator parameters for direction
+        UpdateAnimator();
     }
 
     void HandleInput()
@@ -61,7 +67,7 @@ public class PacStudentController : MonoBehaviour
         Vector3Int tilePosition = new Vector3Int(nextPosition.x, nextPosition.y, 0);
 
         // Check if the next position contains a walkable tile
-        if (IsWalkable(tilePosition))
+        if (IsWalkable(tilePosition) && !isMoving) // Ensure isMoving is false before starting movement
         {
             currentInput = direction;
             targetGridPosition = nextPosition;
@@ -76,10 +82,10 @@ public class PacStudentController : MonoBehaviour
 
     IEnumerator LerpMovement()
     {
-        isMoving = true;
+        isMoving = true; // Set isMoving to true at the start of movement
         float elapsedTime = 0f;
         Vector3 startPos = transform.position;
-        Vector3 endPos = walkableTilemap.CellToWorld(new Vector3Int(targetGridPosition.x, targetGridPosition.y, 0));
+        Vector3 endPos = walkableTilemap.CellToWorld(new Vector3Int(targetGridPosition.x, targetGridPosition.y, 0)) + cellOffset;
 
         // Start animation and sound
         anim.SetBool("isMoving", true);
@@ -104,7 +110,23 @@ public class PacStudentController : MonoBehaviour
         audioSource.Stop();
         dustEffect.Stop();
 
-        isMoving = false;
+        isMoving = false; // Only set isMoving to false after the movement is complete
+    }
+
+    void UpdateAnimator()
+    {
+        // Update the Animator parameters based on the movement direction
+        if (isMoving)
+        {
+            anim.SetFloat("MoveX", currentInput.x);
+            anim.SetFloat("MoveY", currentInput.y);
+        }
+        else
+        {
+            // Set to zero to trigger idle animation when not moving
+            anim.SetFloat("MoveX", 0);
+            anim.SetFloat("MoveY", 0);
+        }
     }
 
     void PlayMovementAudio()
@@ -123,8 +145,8 @@ public class PacStudentController : MonoBehaviour
 
     bool IsPellet(Vector2Int position)
     {
-        // This method can be expanded to check for pellets based on tile types
-        // For now, it just returns false.
+        // Placeholder logic to determine if a tile contains a pellet
+        // Modify this method to check based on your actual pellet setup
         return false;
     }
 }
