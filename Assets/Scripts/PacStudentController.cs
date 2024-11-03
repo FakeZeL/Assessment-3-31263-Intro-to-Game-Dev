@@ -4,12 +4,14 @@ using UnityEngine.Tilemaps;
 
 public class PacStudentController : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Speed of PacStudent's movement
+    public float moveSpeed = 5f; 
     public AudioClip pelletAudio;
     public AudioClip movingAudio;
     public ParticleSystem dustEffect;
-    public Tilemap walkableTilemap; // Reference to the walkable area Tilemap
-    public Vector3 cellOffset = new Vector3(0.5f, 0.5f, 0); // Offset to center PacStudent in the cell
+    public Tilemap wallMap; 
+    public Tilemap pelletMap; 
+    public Tilemap floorMap; 
+    public Vector3 cellOffset = new Vector3(0.5f, 0.5f, 0);
 
     private Vector2Int currentGridPosition;  // Current grid position
     private Vector2Int targetGridPosition;   // Next target position to Lerp to
@@ -26,12 +28,12 @@ public class PacStudentController : MonoBehaviour
         audioSource = GetComponent<AudioSource>();
 
         // Initialize PacStudent's position to align with the grid
-        Vector3Int startPosition = walkableTilemap.WorldToCell(transform.position);
+        Vector3Int startPosition = floorMap.WorldToCell(transform.position);
         currentGridPosition = new Vector2Int(startPosition.x, startPosition.y);
         targetGridPosition = currentGridPosition;
 
         // Center PacStudent's initial position in the cell
-        transform.position = walkableTilemap.CellToWorld(startPosition) + cellOffset;
+        transform.position = floorMap.CellToWorld(startPosition) + cellOffset;
     }
 
     void Update()
@@ -66,8 +68,8 @@ public class PacStudentController : MonoBehaviour
         Vector2Int nextPosition = currentGridPosition + direction;
         Vector3Int tilePosition = new Vector3Int(nextPosition.x, nextPosition.y, 0);
 
-        // Check if the next position contains a walkable tile
-        if (IsWalkable(tilePosition) && !isMoving) // Ensure isMoving is false before starting movement
+        // Check if the next position is walkable and does not contain a wall
+        if (IsWalkable(tilePosition))
         {
             currentInput = direction;
             targetGridPosition = nextPosition;
@@ -77,7 +79,8 @@ public class PacStudentController : MonoBehaviour
 
     bool IsWalkable(Vector3Int tilePosition)
     {
-        return walkableTilemap.HasTile(tilePosition); // Check if the tile exists
+        // A position is walkable if it has a tile in the floor map and no tile in the wall map
+        return floorMap.HasTile(tilePosition) && !wallMap.HasTile(tilePosition);
     }
 
     IEnumerator LerpMovement()
@@ -85,7 +88,7 @@ public class PacStudentController : MonoBehaviour
         isMoving = true; // Set isMoving to true at the start of movement
         float elapsedTime = 0f;
         Vector3 startPos = transform.position;
-        Vector3 endPos = walkableTilemap.CellToWorld(new Vector3Int(targetGridPosition.x, targetGridPosition.y, 0)) + cellOffset;
+        Vector3 endPos = floorMap.CellToWorld(new Vector3Int(targetGridPosition.x, targetGridPosition.y, 0)) + cellOffset;
 
         // Start animation and sound
         anim.SetBool("isMoving", true);
@@ -145,8 +148,8 @@ public class PacStudentController : MonoBehaviour
 
     bool IsPellet(Vector2Int position)
     {
-        // Placeholder logic to determine if a tile contains a pellet
-        // Modify this method to check based on your actual pellet setup
-        return false;
+        // Check if there is a pellet at the given position in the pellet tilemap
+        Vector3Int tilePosition = new Vector3Int(position.x, position.y, 0);
+        return pelletMap.HasTile(tilePosition);
     }
 }
